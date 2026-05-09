@@ -1,15 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,25:203a43,50:00F7FF,75:203a43,100:0f2027&text=Harun%20Ar%20Rashid&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20🚀&descAlignY=58&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:003B2F,25:006B4F,50:00C896,75:00E6A8,100:B8FFD9&text=Harun%20Ar%20Rashid&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20🚀&descAlignY=58&descSize=20"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+MERN+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Building+Modern+%26+Scalable+Web+Applications;Clean+Code+%2B+Beautiful+UI+%2B+Performance" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C896&center=true&vCenter=true&width=850&lines=Full+Stack+MERN+Developer;Next.js+%7C+React.js+%7C+Node.js+%7C+MongoDB;Building+Modern+%26+Scalable+Web+Applications;Clean+Code+%2B+Beautiful+UI+%2B+Performance" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tsharun25&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
-
-  <img src="https://img.shields.io/github/followers/Tsharun25?label=Followers&style=for-the-badge&color=00F7FF" />
-
-  <img src="https://img.shields.io/github/stars/Tsharun25?label=Stars&style=for-the-badge&color=00F7FF" />
+  <img src="https://komarev.com/ghpvc/?username=Tsharun25&label=Profile%20Views&color=00c896&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Tsharun25?label=Followers&style=for-the-badge&color=00c896" />
+  <img src="https://img.shields.io/github/stars/Tsharun25?label=Stars&style=for-the-badge&color=00c896" />
 </p>
 
 ---
@@ -23,11 +21,13 @@ Hi, I’m **Harun Ar Rashid**, a passionate **MERN Stack Developer** from **Dhak
 I love building clean, modern, scalable, and user-friendly web applications with real-world impact.
 
 - 🔭 Currently working on **ShebaSathi**
-- 🛒 Built **ShopVerse**, a full-stack e-commerce platform
+- 🩺 Built **ShebaSathi**, a Next.js service-based platform
+- 🛒 Built **ShopVerse**, a React.js e-commerce platform
 - 🌱 Learning **Advanced Next.js, Backend Architecture & System Design**
-- 💬 Ask me about **React, Next.js, Node.js, Express, MongoDB & REST APIs**
+- 💬 Ask me about **React.js, Next.js, Node.js, Express, MongoDB & REST APIs**
 - ⚡ Focused on **clean code, modern UI, and performance**
-- 🌐 Live Project: [ShopVerse](https://shopverse-client-silk.vercel.app)
+- 🩺 ShebaSathi Live: [Visit Site](https://shebasathi-next.vercel.app/)
+- 🌐 ShopVerse Live: [Visit Site](https://shopverse-client-silk.vercel.app)
 
 <br clear="right"/>
 
@@ -49,10 +49,13 @@ I love building clean, modern, scalable, and user-friendly web applications with
 
 ## 🩺 ShebaSathi
 
-A modern service-based platform built with MERN stack, focused on clean UI, smooth user experience, and scalable backend architecture.
+A modern service-based platform built with **Next.js**, focused on clean UI, smooth user experience, and scalable web architecture.
 
 ### ⚙️ Tech Used
-React • Next.js • Node.js • Express • MongoDB
+Next.js • Tailwind CSS • Node.js • Express • MongoDB
+
+### 🔗 Live Demo
+https://shebasathi-next.vercel.app/
 
 </td>
 
@@ -60,10 +63,10 @@ React • Next.js • Node.js • Express • MongoDB
 
 ## 🛒 ShopVerse
 
-A full-stack e-commerce application with authentication, backend APIs, responsive UI, and modern shopping experience.
+A full-stack e-commerce application built with **React.js**, featuring authentication, backend APIs, responsive UI, and modern shopping experience.
 
 ### ⚙️ Tech Used
-React • Node.js • Express • MongoDB
+React.js • Node.js • Express • MongoDB
 
 ### 🔗 Live Demo
 https://shopverse-client-silk.vercel.app
@@ -85,13 +88,12 @@ https://shopverse-client-silk.vercel.app
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tsharun25&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img width="49%" src="https://streak-stats.demolab.com?user=Tsharun25&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tsharun25&show_icons=true&theme=vue-dark&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Tsharun25&theme=vue-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsharun25&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsharun25&layout=compact&theme=vue-dark&hide_border=true" />
 </p>
 
 ---
@@ -99,7 +101,7 @@ https://shopverse-client-silk.vercel.app
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tsharun25&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tsharun25&theme=vue&hide_border=true&bg_color=0D1117&color=00C896&line=00E6A8&point=FFFFFF" />
 </p>
 
 ---
@@ -108,11 +110,15 @@ https://shopverse-client-silk.vercel.app
 
 <p align="center">
   <a href="https://github.com/Tsharun25">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-003B2F?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://shebasathi-next.vercel.app/">
+    <img src="https://img.shields.io/badge/ShebaSathi-00C896?style=for-the-badge&logo=vercel&logoColor=black"/>
   </a>
 
   <a href="https://shopverse-client-silk.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+    <img src="https://img.shields.io/badge/ShopVerse-00E6A8?style=for-the-badge&logo=vercel&logoColor=black"/>
   </a>
 </p>
 
@@ -122,4 +128,4 @@ https://shopverse-client-silk.vercel.app
 💎 Building clean, scalable, and meaningful web experiences.
 </h3>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0f2027,50:203a43,100:00F7FF&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:B8FFD9,50:00C896,100:003B2F&section=footer"/>
