@@ -88,12 +88,13 @@ https://shopverse-client-silk.vercel.app
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tsharun25&show_icons=true&theme=vue-dark&hide_border=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Tsharun25&theme=vue-dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tsharun25&show_icons=true&theme=vue-dark&hide_border=true&rank_icon=github" />
+  
+  <img height="170" src="https://github-readme-streak-stats-eight.vercel.app/?user=Tsharun25&theme=vue-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsharun25&layout=compact&theme=vue-dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsharun25&layout=compact&theme=vue-dark&hide_border=true" />
 </p>
 
 ---
