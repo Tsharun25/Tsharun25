@@ -87,24 +87,17 @@ https://shopverse-client-silk.vercel.app
 
 # 📊 GitHub Analytics
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Tsharun25&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" />
-
-</td>
-
-<td width="50%" align="center">
-
-<img src="https://streak-stats.demolab.com?user=Tsharun25&theme=vue-dark&hide_border=true" />
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Tsharun25&theme=vue-dark&hide_border=true&border_radius=10" />
+</p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsharun25&layout=compact&theme=vue-dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tsharun25&theme=vue" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tsharun25&theme=vue" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tsharun25&theme=vue" />
 </p>
 
 ---
