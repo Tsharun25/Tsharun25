@@ -1,7 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,35:0F766E,70:06B6D4,100:F59E0B&text=Harun%20Ar%20Rashid&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20SaaS%20%26%20CRM%20Builder&descAlignY=58&descSize=18"/>
+<h1 align="center">Hi, I'm Harun Ar Rashid</h1>
+
+<h3 align="center">
+MERN Stack Developer 💻 React | Node.js | Express | MongoDB<br>
+Building modern & scalable web apps 🚀
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=06B6D4&center=true&vCenter=true&width=980&lines=I+Build+SaaS%2C+CRM+%26+Business+Web+Applications;React.js+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Clean+Dashboard+UI+%2B+Secure+Backend+APIs;Helping+Businesses+Launch+Scalable+Digital+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0F766E&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;React.js+%7C+Next.js+%7C+Node.js+%7C+MongoDB;SaaS+%7C+CRM+%7C+E-Commerce+Web+Applications;Clean+Code+%2B+Modern+UI+%2B+Scalable+Backend" />
 </p>
 
 <p align="center">
@@ -22,11 +27,11 @@
 
 <img align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-Hi, I'm **Harun Ar Rashid**, a **Full Stack Developer** from **Dhaka, Bangladesh 🇧🇩**.
+Hi, I'm **Harun Ar Rashid**, a **MERN Stack Developer** from **Dhaka, Bangladesh 🇧🇩**.
 
-I help startups, founders, and growing businesses build **SaaS products, CRM dashboards, e-commerce platforms, service booking systems, and custom web applications** that are clean, fast, and ready for real users.
+I build modern and scalable web applications using **React.js, Next.js, Node.js, Express.js, and MongoDB**. I help startups, founders, and growing businesses turn ideas into clean, fast, and user-friendly digital products.
 
-- 🚀 I build **business-focused web apps** from idea to live deployment
+- 🚀 I build **modern MERN stack web apps** from idea to live deployment
 - 📊 Built **FlowPilot CRM SaaS** for projects, clients, tasks, and analytics
 - 🛒 Built **ShopVerse E-Commerce Platform** with full-stack shopping features
 - 🩺 Built **ShebaSathi Service Platform** for service booking and management
@@ -210,4 +215,6 @@ Next.js • Node.js • Express.js • MongoDB
 🚀 Available to Build SaaS, CRM, E-Commerce & Business Web Applications
 </h3>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:F59E0B,45:06B6D4,100:020617&section=footer"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F59E0B&center=true&vCenter=true&width=820&lines=Let's+build+something+clean%2C+scalable%2C+and+useful." />
+</p>
