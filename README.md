@@ -1,16 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harun Ar Rashid</h1>
 
-<h3 align="center">
-Full Stack Developer 🚀 | SaaS, CRM & AI Web Apps<br>
-React.js • Next.js • Node.js • MongoDB
-</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=900&color=00E5FF&center=true&vCenter=true&width=980&lines=Full+Stack+Developer+%F0%9F%9A%80;SaaS%2C+CRM+%26+AI+Web+Applications;React.js+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+MongoDB;Clean+UI+%2B+Secure+APIs+%2B+Scalable+Architecture;Building+Digital+Products+for+Real+Businesses" />
+  <img width="100%" src="./assets/full-stack-animation.svg" alt="Full Stack Developer | SaaS, CRM and AI Web Apps animation" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/md-harun-ar-rashid-19124166/">
+  <a href="https://bd.linkedin.com/in/tsharun?trk=profile-badge">
     <img src="https://img.shields.io/badge/Available_for_Work-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/SaaS-00B8D9?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -193,8 +188,8 @@ Next.js • Node.js • Express.js • MongoDB
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/md-harun-ar-rashid-19124166/">
-    <img src="https://img.shields.io/badge/Hire_Me_on_LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://bd.linkedin.com/in/tsharun?trk=profile-badge">
+    <img src="https://img.shields.io/badge/Md._Harun_Ar_Rashid-LinkedIn_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="https://github.com/Tsharun25">

@@ -1,0 +1,70 @@
+<svg width="1000" height="260" viewBox="0 0 1000 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Full Stack Developer animated banner</title>
+  <desc id="desc">Colorful animated banner for Harun Ar Rashid, Full Stack Developer building SaaS, CRM and AI web apps.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#020617">
+        <animate attributeName="stop-color" values="#020617;#312E81;#0F172A;#020617" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="35%" stop-color="#7C3AED">
+        <animate attributeName="stop-color" values="#7C3AED;#00B8D9;#10B981;#7C3AED" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="70%" stop-color="#00B8D9">
+        <animate attributeName="stop-color" values="#00B8D9;#10B981;#F59E0B;#00B8D9" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#F59E0B">
+        <animate attributeName="stop-color" values="#F59E0B;#FB7185;#7C3AED;#F59E0B" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <linearGradient id="textGradient" x1="160" y1="0" x2="840" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#F59E0B">
+        <animate attributeName="stop-color" values="#F59E0B;#00E5FF;#10B981;#F59E0B" dur="5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#00E5FF">
+        <animate attributeName="stop-color" values="#00E5FF;#A78BFA;#F59E0B;#00E5FF" dur="5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#A78BFA">
+        <animate attributeName="stop-color" values="#A78BFA;#10B981;#00E5FF;#A78BFA" dur="5s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="260" rx="24" fill="url(#bg)"/>
+
+  <circle cx="105" cy="62" r="48" fill="#00E5FF" opacity="0.18">
+    <animate attributeName="cy" values="62;82;62" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="890" cy="206" r="62" fill="#F59E0B" opacity="0.18">
+    <animate attributeName="cy" values="206;176;206" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="790" cy="58" r="28" fill="#10B981" opacity="0.2">
+    <animate attributeName="cx" values="790;820;790" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="500" y="78" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="800">
+    Harun Ar Rashid
+  </text>
+
+  <text x="500" y="134" text-anchor="middle" fill="url(#textGradient)" filter="url(#glow)" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="800">
+    Full Stack Developer 🚀
+  </text>
+
+  <text x="500" y="178" text-anchor="middle" fill="#E0F2FE" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">
+    SaaS • CRM • AI Web Apps
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="3s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="500" y="218" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">
+    React.js • Next.js • Node.js • MongoDB
+  </text>
+</svg>
