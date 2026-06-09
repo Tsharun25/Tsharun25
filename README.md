@@ -1,13 +1,19 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0B1020,25:1E3A8A,50:0891B2,75:22C55E,100:A7F3D0&text=Harun%20Ar%20Rashid&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%F0%9F%9A%80&descAlignY=58&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,35:0F766E,70:06B6D4,100:F59E0B&text=Harun%20Ar%20Rashid&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20SaaS%20%26%20CRM%20Builder&descAlignY=58&descSize=18"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;SaaS+%7C+CRM+%7C+AI+Web+Applications;React.js+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Building+Scalable+Digital+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=06B6D4&center=true&vCenter=true&width=980&lines=I+Build+SaaS%2C+CRM+%26+Business+Web+Applications;React.js+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Clean+Dashboard+UI+%2B+Secure+Backend+APIs;Helping+Businesses+Launch+Scalable+Digital+Products" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tsharun25&label=Profile%20Views&color=0891b2&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Tsharun25?label=Followers&style=for-the-badge&color=1e3a8a" />
-  <img src="https://img.shields.io/github/stars/Tsharun25?label=Stars&style=for-the-badge&color=22c55e" />
+  <a href="https://www.linkedin.com/in/md-harun-ar-rashid-19124166/">
+    <img src="https://img.shields.io/badge/Available_for_Work-0F766E?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Tsharun25?tab=followers">
+    <img src="https://img.shields.io/github/followers/Tsharun25?label=Followers&style=for-the-badge&color=06b6d4" />
+  </a>
+  <a href="https://github.com/Tsharun25?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Tsharun25?label=Stars&style=for-the-badge&color=f59e0b" />
+  </a>
 </p>
 
 ---
@@ -16,17 +22,45 @@
 
 <img align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-Hi, I'm **Harun Ar Rashid**, a passionate **Full Stack Developer** from **Dhaka, Bangladesh 🇧🇩**.
+Hi, I'm **Harun Ar Rashid**, a **Full Stack Developer** from **Dhaka, Bangladesh 🇧🇩**.
 
-I help startups, founders, and businesses build scalable web applications, SaaS platforms, CRM systems, and custom digital solutions.
+I help startups, founders, and growing businesses build **SaaS products, CRM dashboards, e-commerce platforms, service booking systems, and custom web applications** that are clean, fast, and ready for real users.
 
-- 🚀 Building SaaS, CRM & AI-powered applications
-- 📊 Built **FlowPilot CRM SaaS**
-- 🛒 Built **ShopVerse E-Commerce Platform**
-- 🩺 Built **ShebaSathi Service Platform**
-- 🌱 Learning **Advanced System Design & Scalable Backend Architecture**
+- 🚀 I build **business-focused web apps** from idea to live deployment
+- 📊 Built **FlowPilot CRM SaaS** for projects, clients, tasks, and analytics
+- 🛒 Built **ShopVerse E-Commerce Platform** with full-stack shopping features
+- 🩺 Built **ShebaSathi Service Platform** for service booking and management
+- 🔐 Comfortable with **auth, REST APIs, dashboard UI, database models, and deployments**
 - 💬 Ask me about **React.js, Next.js, Node.js, Express.js, MongoDB & REST APIs**
-- ⚡ Focused on **Clean Code, Performance & Business-Focused Solutions**
+- ⚡ Focused on **Clean Code, Performance, UX, and Business Results**
+
+### 💼 What I Can Build For Clients
+
+<table>
+<tr>
+<td width="33%">
+
+**SaaS / CRM**
+
+Dashboards, client management, task boards, analytics, role-based flows.
+
+</td>
+<td width="33%">
+
+**Business Websites**
+
+Modern landing pages, service websites, booking flows, responsive UI.
+
+</td>
+<td width="33%">
+
+**Full-Stack Apps**
+
+Authentication, REST APIs, MongoDB, admin panels, deployment support.
+
+</td>
+</tr>
+</table>
 
 ### 🌐 Live Projects
 
@@ -59,7 +93,7 @@ https://shebasathi-next.vercel.app/
 
 ## 📊 FlowPilot CRM
 
-Modern SaaS CRM platform for managing projects, clients, tasks, and revenue analytics.
+Modern SaaS CRM platform for managing projects, clients, tasks, pipelines, and revenue analytics.
 
 ### ⚙️ Tech Used
 
@@ -67,7 +101,9 @@ React.js • Node.js • Express.js • MongoDB • Tailwind CSS
 
 ### 🔗 Live Demo
 
-https://flowpilot-crm-saas.vercel.app/
+<a href="https://flowpilot-crm-saas.vercel.app/">
+  <img src="https://img.shields.io/badge/View_Live-0F766E?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 </td>
 
@@ -75,7 +111,7 @@ https://flowpilot-crm-saas.vercel.app/
 
 ## 🛒 ShopVerse
 
-Full-stack e-commerce platform featuring authentication, product management, and responsive design.
+Full-stack e-commerce platform featuring authentication, product management, APIs, and responsive shopping UI.
 
 ### ⚙️ Tech Used
 
@@ -83,7 +119,9 @@ React.js • Node.js • Express.js • MongoDB
 
 ### 🔗 Live Demo
 
-https://shopverse-client-silk.vercel.app/
+<a href="https://shopverse-client-silk.vercel.app/">
+  <img src="https://img.shields.io/badge/View_Live-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 </td>
 
@@ -91,7 +129,7 @@ https://shopverse-client-silk.vercel.app/
 
 ## 🩺 ShebaSathi
 
-Service booking and management platform with modern UI and scalable architecture.
+Service booking and management platform with modern UI, clean user flow, and scalable architecture.
 
 ### ⚙️ Tech Used
 
@@ -99,7 +137,9 @@ Next.js • Node.js • Express.js • MongoDB
 
 ### 🔗 Live Demo
 
-https://shebasathi-next.vercel.app/
+<a href="https://shebasathi-next.vercel.app/">
+  <img src="https://img.shields.io/badge/View_Live-F59E0B?style=for-the-badge&logo=vercel&logoColor=black" />
+</a>
 
 </td>
 </tr>
@@ -110,7 +150,7 @@ https://shebasathi-next.vercel.app/
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tsharun25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tsharun25&theme=onedark&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 ---
@@ -118,16 +158,16 @@ https://shebasathi-next.vercel.app/
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tsharun25&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=Tsharun25&theme=dark&hide_border=true&border_radius=10&ring=06B6D4&fire=F59E0B&currStreakLabel=06B6D4" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tsharun25&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tsharun25&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tsharun25&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tsharun25&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tsharun25&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tsharun25&theme=github_dark" />
 </p>
 
 ---
@@ -135,7 +175,7 @@ https://shebasathi-next.vercel.app/
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tsharun25&theme=tokyo-night&hide_border=true&bg_color=0B1020&color=38BDF8&line=22C55E&point=FFFFFF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tsharun25&theme=react-dark&hide_border=true&bg_color=020617&color=06B6D4&line=F59E0B&point=FFFFFF" />
 </p>
 
 ---
@@ -144,30 +184,30 @@ https://shebasathi-next.vercel.app/
 
 <p align="center">
   <a href="https://www.linkedin.com/in/md-harun-ar-rashid-19124166/">
-    <img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Hire_Me_on_LinkedIn-0F766E?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="https://github.com/Tsharun25">
-    <img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
   <a href="https://flowpilot-crm-saas.vercel.app/">
-    <img src="https://img.shields.io/badge/FlowPilot_CRM-0891B2?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/FlowPilot_CRM-0F766E?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 
   <a href="https://shopverse-client-silk.vercel.app">
-    <img src="https://img.shields.io/badge/ShopVerse-22C55E?style=for-the-badge&logo=vercel&logoColor=black"/>
+    <img src="https://img.shields.io/badge/ShopVerse-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 
   <a href="https://shebasathi-next.vercel.app/">
-    <img src="https://img.shields.io/badge/ShebaSathi-A7F3D0?style=for-the-badge&logo=vercel&logoColor=black"/>
+    <img src="https://img.shields.io/badge/ShebaSathi-F59E0B?style=for-the-badge&logo=vercel&logoColor=black"/>
   </a>
 </p>
 
 ---
 
 <h3 align="center">
-🚀 Building Scalable Digital Products That Solve Real Business Problems
+🚀 Available to Build SaaS, CRM, E-Commerce & Business Web Applications
 </h3>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:A7F3D0,50:0891B2,100:0B1020&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:F59E0B,45:06B6D4,100:020617&section=footer"/>
